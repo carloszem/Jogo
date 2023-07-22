@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "SpritePlayer",
-    "path": "sprites/SpritePlayer/SpritePlayer.yy",
+    "name": "SPlayerParado",
+    "path": "sprites/SPlayerParado/SPlayerParado.yy",
   },
   "spriteMaskId": null,
   "visible": true,

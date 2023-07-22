@@ -3,3 +3,4 @@
 
 window_set_size(1600,920)
 espada = 0;
+inventario = [];

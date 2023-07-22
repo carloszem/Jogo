@@ -13,7 +13,8 @@ if keyboard_check(vk_right){
 x+=1
 }
 
-if espada =3{
-room_goto_next()
+if espada =1{
+instance_destroy(espada)
+inventario[1] = espada
 }
 
