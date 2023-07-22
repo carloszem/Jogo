@@ -1,10 +1,14 @@
 {
   "FolderOrderSettings": [
-    {"name":"Cenas","order":10,"path":"folders/Cenas.yy",},
-    {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
-    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Cenas","order":2,"path":"folders/Cenas.yy",},
+    {"name":"Objetos","order":1,"path":"folders/Objetos.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"SPlayerAtaque","order":7,"path":"sprites/SPlayerAtaque/SPlayerAtaque.yy",},
+    {"name":"SFundo","order":3,"path":"sprites/SFundo/SFundo.yy",},
+    {"name":"SFundo2","order":4,"path":"sprites/SFundo2/SFundo2.yy",},
+    {"name":"SpriteGrama","order":2,"path":"sprites/SpriteGrama/SpriteGrama.yy",},
+    {"name":"SPlayerParado","order":5,"path":"sprites/SPlayerParado/SPlayerParado.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"sEspada","order":2,"path":"sprites/sEspada/sEspada.yy",},
     {"name":"oEspada","order":2,"path":"objects/oEspada/oEspada.yy",},

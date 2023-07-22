@@ -22,6 +22,12 @@
     "IDEVersion": "2023.6.0.92",
   },
   "resources": [
+    {"id":{"name":"SPlayerAtaque","path":"sprites/SPlayerAtaque/SPlayerAtaque.yy",},},
+    {"id":{"name":"SFundo","path":"sprites/SFundo/SFundo.yy",},},
+    {"id":{"name":"SFundo2","path":"sprites/SFundo2/SFundo2.yy",},},
+    {"id":{"name":"SpriteGrama","path":"sprites/SpriteGrama/SpriteGrama.yy",},},
+    {"id":{"name":"SPlayerParado","path":"sprites/SPlayerParado/SPlayerParado.yy",},},
+    {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"sEspada","path":"sprites/sEspada/sEspada.yy",},},
     {"id":{"name":"oEspada","path":"objects/oEspada/oEspada.yy",},},
