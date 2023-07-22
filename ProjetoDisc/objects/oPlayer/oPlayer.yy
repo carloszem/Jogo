@@ -31,7 +31,7 @@
   "solid": false,
   "spriteId": {
     "name": "SPlayerParado",
-    "path": "sprites/SPlayerParado/SPlayerParado.yy",
+    "path": "sprites/SPlayerParado/SPlayerParado.yy"
   },
   "spriteMaskId": null,
   "visible": true,
