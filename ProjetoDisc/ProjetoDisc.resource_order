@@ -4,5 +4,10 @@
     {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"sEspada","order":2,"path":"sprites/sEspada/sEspada.yy",},
+    {"name":"oEspada","order":2,"path":"objects/oEspada/oEspada.yy",},
+    {"name":"spriteMago","order":1,"path":"sprites/spriteMago/spriteMago.yy",},
+  ],
 }
