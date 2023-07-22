@@ -9,5 +9,6 @@
     {"name":"sEspada","order":2,"path":"sprites/sEspada/sEspada.yy",},
     {"name":"oEspada","order":2,"path":"objects/oEspada/oEspada.yy",},
     {"name":"spriteMago","order":1,"path":"sprites/spriteMago/spriteMago.yy",},
+    {"name":"FundoCena","order":1,"path":"sprites/FundoCena/FundoCena.yy",},
   ],
 }
