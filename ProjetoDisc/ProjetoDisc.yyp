@@ -35,6 +35,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spriteMago","path":"sprites/spriteMago/spriteMago.yy",},},
     {"id":{"name":"Cena1","path":"rooms/Cena1/Cena1.yy",},},
+    {"id":{"name":"FundoCena","path":"sprites/FundoCena/FundoCena.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
