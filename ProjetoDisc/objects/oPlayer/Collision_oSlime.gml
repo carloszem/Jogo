@@ -7,4 +7,5 @@
         // Configura o timer de dano para um valor de recuperação (por exemplo, 60 frames)
         timer_dano = 60;
     }
-
+	
+	

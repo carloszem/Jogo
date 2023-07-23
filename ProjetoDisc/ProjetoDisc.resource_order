@@ -14,6 +14,7 @@
     {"name":"Sprite11","order":14,"path":"sprites/Sprite11/Sprite11.yy",},
     {"name":"oPocaoVida","order":2,"path":"objects/oPocaoVida/oPocaoVida.yy",},
     {"name":"sSlime","order":10,"path":"sprites/sSlime/sSlime.yy",},
+    {"name":"oSlimes","order":4,"path":"objects/oSlimes/oSlimes.yy",},
     {"name":"sPocaoVida","order":9,"path":"sprites/sPocaoVida/sPocaoVida.yy",},
     {"name":"oSlime","order":3,"path":"objects/oSlime/oSlime.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},

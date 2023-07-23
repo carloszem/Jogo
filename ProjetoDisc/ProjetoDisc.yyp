@@ -32,6 +32,7 @@
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
     {"id":{"name":"oPocaoVida","path":"objects/oPocaoVida/oPocaoVida.yy",},},
     {"id":{"name":"sSlime","path":"sprites/sSlime/sSlime.yy",},},
+    {"id":{"name":"oSlimes","path":"objects/oSlimes/oSlimes.yy",},},
     {"id":{"name":"sPocaoVida","path":"sprites/sPocaoVida/sPocaoVida.yy",},},
     {"id":{"name":"oSlime","path":"objects/oSlime/oSlime.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
@@ -39,11 +40,9 @@
     {"id":{"name":"sPlayerCorrida","path":"sprites/sPlayerCorrida/sPlayerCorrida.yy",},},
     {"id":{"name":"sEspada","path":"sprites/sEspada/sEspada.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"Cena1","path":"rooms/Cena1/Cena1.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"roomId":{"name":"Cena1","path":"rooms/Cena1/Cena1.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
