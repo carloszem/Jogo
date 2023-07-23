@@ -11,7 +11,6 @@
     {"name":"sGrama","order":2,"path":"sprites/sGrama/sGrama.yy",},
     {"name":"oPilar","order":3,"path":"objects/oPilar/oPilar.yy",},
     {"name":"sPlayerParado","order":5,"path":"sprites/sPlayerParado/sPlayerParado.yy",},
-    {"name":"Sprite11","order":14,"path":"sprites/Sprite11/Sprite11.yy",},
     {"name":"oPocaoVida","order":2,"path":"objects/oPocaoVida/oPocaoVida.yy",},
     {"name":"sSlime","order":10,"path":"sprites/sSlime/sSlime.yy",},
     {"name":"oSlimes","order":4,"path":"objects/oSlimes/oSlimes.yy",},

@@ -29,7 +29,6 @@
     {"id":{"name":"sGrama","path":"sprites/sGrama/sGrama.yy",},},
     {"id":{"name":"oPilar","path":"objects/oPilar/oPilar.yy",},},
     {"id":{"name":"sPlayerParado","path":"sprites/sPlayerParado/sPlayerParado.yy",},},
-    {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
     {"id":{"name":"oPocaoVida","path":"objects/oPocaoVida/oPocaoVida.yy",},},
     {"id":{"name":"sSlime","path":"sprites/sSlime/sSlime.yy",},},
     {"id":{"name":"oSlimes","path":"objects/oSlimes/oSlimes.yy",},},
@@ -37,9 +36,9 @@
     {"id":{"name":"oSlime","path":"objects/oSlime/oSlime.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"sFundoChao","path":"sprites/sFundoChao/sFundoChao.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sPlayerCorrida","path":"sprites/sPlayerCorrida/sPlayerCorrida.yy",},},
     {"id":{"name":"sEspada","path":"sprites/sEspada/sEspada.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
